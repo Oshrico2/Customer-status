@@ -1,10 +1,9 @@
-# Customer-status
+<h1><u><strong><center>Customer-status</center></strong></u></h1>
 A program that receives an Excel file with customer statuses, agents, names and agents, emails. The program will open the Excel file and send an email to each agent. Attached to the email will be a personal Excel file, a table in the body of the message and a pie chart showing the statuses
 The program supports the Hebrew language or any other language that is written from right to left
 
 
 examples:
-
 
 Personal Excel file:
 ![1](https://user-images.githubusercontent.com/95771163/234862195-4447d541-0e94-4262-9c26-eb3ac893000f.png)
