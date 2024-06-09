@@ -12,3 +12,11 @@ The body of the email:
 Pie chart:
 ![3](https://user-images.githubusercontent.com/95771163/234861195-b23749be-659b-431c-8e01-55be9d992b14.png)
 
+
+I have upgraded the system so that it is more accessible to the user
+Using mern-stack
+This is the result:
+
+
+https://github.com/Oshrico2/Customer-status/assets/95771163/763edc28-6ce3-4272-a9bd-a6c504308cdd
+
